@@ -1,2 +1,0 @@
-# Angular-Goods
-Goods - Kart
